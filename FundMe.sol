@@ -1,6 +1,6 @@
 // SPDX-License_Identifier: MIT
 
-pragma solidity ^0.6.0; //this help us to use all solidity version less than 0.6.0
+pragma solidity ^0.6.0; //this help us to use all solidity version less than and upto 0.6.0
 
 import "./SimpleStorage.sol"; //this is similar to copying the whole code from the "StorageFactory" file
 
